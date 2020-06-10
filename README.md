@@ -17,7 +17,7 @@ Configure and Install Following Plugins
 
 
 # Run tests:
-Project link :https://github.com/rkn411/amazonwebshop.git
+Project link :https://github.com/tekisrinivas20/amazonwebshop.git
 Clone or import project /Download as zip.
 >Navigate to project root.
 >>mvn clean
